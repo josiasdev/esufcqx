@@ -1,7 +1,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/josiasdev/esufcqx)](https://repl.it/github/josiasdev/esufcqx)
 
 
-Repositório do meu curso de Engenharia de Software iniciado em 2022.1
+Repositório do meu curso de Engenharia de Software 2022.1
 
 
 ![68%](https://progress-bar.xyz/68/?title=Progresso+no+curso:)
