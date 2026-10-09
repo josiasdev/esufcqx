@@ -92,7 +92,7 @@ Organização por aula, seguindo o plano de aulas da disciplina. Cada pasta cont
 
 | Aula | Data | Conteúdo |
 |:---|:---:|:---|
-| Aula 18 | 14/10 | Apresentação do Trabalho 1 - refatoração com padrões de projeto em sistema legado |
+| [Aula 18](./Aula-18%20-%2014-10%20-%20Apresentacao%20-%20do%20-%20trabalho%201%20-%20refatoracao%20com%20padroes%20de%20projeto%20em%20sistema%20legado) | 14/10 | Apresentação do Trabalho 1: refatoração com padrões de projeto em sistema legado. Contém o enunciado e o template de relatório. |
 | Aula 19 | 30/10 | Tecnologias de reuso: Linha de Produtos de Software |
 | Aula 20 | 04/11 | Aspectos gerenciais: métricas de reuso |
 | Aula 21 | 06/11 | Oficina de Pesquisa Acadêmica III - planejamento e condução da pesquisa |
@@ -132,6 +132,7 @@ Datas sem aula: **16/10** (Recesso - Dia do Professor), **21/10 e 23/10** (XV IH
 | `Aula-15` | `Proposta de Pesquisa - Reuso em Microsserviços.pdf` (Marco 2 da equipe) |
 | `Aula-16` | `Aula 16 - Componentes e Middleware.pdf`, `Aula 16.1 - Engenharia baseada em Serviços.pdf` |
 | `Aula-17` | `Aula 17 - Oficina de Pesquisa Acadêmica II.pdf` |
+| `Aula-18` | `Trabalho 1 - Refatoração com Padrões de Projeto em Sistema Legado.pdf`, `Template de Relatório - Trabalho 1.pdf` |
 
 ---
 
