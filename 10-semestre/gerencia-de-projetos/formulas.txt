@@ -1,0 +1,10 @@
+ONT -> Orçamento no término
+VA -> Valor Agregado
+VP -> Valor Planejado
+CR -> Custo real
+IDC = VA / CR
+IDP = VA / VP
+ENT = ONT / IDC
+ENT = CR + EPT
+VC = VA - CR
+VP = VA - VP
